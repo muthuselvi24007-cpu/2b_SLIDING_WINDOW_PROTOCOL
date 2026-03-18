@@ -57,6 +57,8 @@ conn.close()
 s.close()
 ```
 ## OUPUT: 
+<img width="783" height="293" alt="image" src="https://github.com/user-attachments/assets/ed8e2ff0-f9df-418c-8f69-1fe5ab69a8a6" />
+<img width="812" height="238" alt="image" src="https://github.com/user-attachments/assets/b896d44f-ed09-44fe-b765-606cc93c8945" />
 
 ## RESULT
 Thus, python program to perform stop and wait protocol was successfully executed
